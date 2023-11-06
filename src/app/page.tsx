@@ -27,6 +27,9 @@ export default function HomePage() {
         <li>
           <a href="/components/stat">Stat</a>
         </li>
+        <li>
+          <a href="/components/card">Cards</a>
+        </li>
       </ul>
     </div>
   );
