@@ -30,6 +30,9 @@ export default function HomePage() {
         <li>
           <a href="/components/card">Cards</a>
         </li>
+        <li>
+          <a href="/components/collection-grid">Collection Grid</a>
+        </li>
       </ul>
     </div>
   );
